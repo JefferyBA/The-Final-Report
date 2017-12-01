@@ -24,7 +24,7 @@ Overall, we found that Capital Bikeshare use is highest among longer-term reside
 
 Perhaps a group next year could examine 2017 Q4 data to examine the change in Capital Bikeshare utilization once its dockless competitors entered.  That group could see if the number of total rides decreased.  They could examine the member/non-member distribution to see if the new services are primarily siphoning off casual users.  That team could look at the distribution of trips to see if the services are competing with each other or are being used in tandem.  For example, if most of the trips for a dockless bike began (or ended) near a bikeshare and ended (or began) in an area not served by the bike stations, then these two services could end up being employed in a complementary manner.  (This is the user experience of a member of this team.)  The dockless bikes would be solving the “last mile ” problem.  But if the dockless bike trips begin and end near bike docks, then these trips are directly competing with the established order of bikesharing.  And finally, if the dockless bikes begin and end nowhere near bike docks, then these two systems are neither helping nor hurting each other; their use would be considered completely orthogonal.
 
-### We here in Group 8, 2017, look forward to that future group’s findings.  In the meantime, our complete story visualization can be found here:  https://public.tableau.com/profile/jordan.fischer4857#!/vizhome/DCBikeshareAnalysisBASkillsgroup8/BikeshareStory
+#### We here in Group 8, 2017, look forward to that future group’s findings.  In the meantime, our complete story visualization can be found here:  https://public.tableau.com/profile/jordan.fischer4857#!/vizhome/DCBikeshareAnalysisBASkillsgroup8/BikeshareStory
 
 
 
