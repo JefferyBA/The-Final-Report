@@ -3,11 +3,11 @@
 ## FINAL REPORT
 ### Business Analytics Skills Workshop, Group 8
 
-Jordan Fischer
-Austin Frazer
-Tingyu Xie
-Jingbo Zhang
-Junfei Zheng
+#### Jordan Fischer
+#### Austin Frazer
+#### Tingyu Xie
+#### Jingbo Zhang
+#### Junfei Zheng
 
 As the world becomes more urbanized, understanding urban logistics and maximizing resources in urban settings will be ever more important. Bike sharing systems are a form of public transportation that is cheap and environmentally friendly; it also lessens traffic congestion and even improves public health. They are being implemented in a growing number of cities around the world. Even automotive companies are trying their hand in this form of transportation, such as Ford with it’s GoBike  in San Francisco.
 
